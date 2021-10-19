@@ -1,4 +1,4 @@
-<%@ page language="java" pageEncoding="utf-8" %>
+<%@ page pageEncoding="utf-8" %>
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -7,6 +7,6 @@
 <body>
 <h2>Hello World!</h2>
 <h3>zwyy</h3>
-<h3>自动部署测试6</h3>
+<h3>自动部署测试7</h3>
 </body>
 </html>
